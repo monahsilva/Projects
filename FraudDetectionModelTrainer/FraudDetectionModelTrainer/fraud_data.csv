@@ -1,0 +1,301 @@
+Amount,UserId,Location,TransactionHour,IsFraud
+431.97,user_010,San Francisco,9,False
+540.96,user_014,Los Angeles,19,False
+1170.21,user_001,Seattle,2,True
+602.49,user_020,Los Angeles,17,False
+1443.63,user_008,New York,13,False
+212.16,user_003,San Francisco,17,False
+127.0,user_019,Boston,5,False
+1037.04,user_018,Chicago,5,True
+1335.5,user_001,New York,22,False
+1101.99,user_009,Houston,19,False
+1699.65,user_005,Boston,14,False
+510.96,user_001,Miami,10,True
+1986.09,user_012,Boston,21,False
+1435.01,user_012,Seattle,8,False
+1808.53,user_011,New York,19,False
+1909.47,user_013,Chicago,10,False
+744.33,user_006,San Francisco,19,False
+1856.01,user_014,San Francisco,3,True
+761.62,user_013,Seattle,20,False
+706.2,user_017,Miami,11,False
+775.14,user_010,San Francisco,0,False
+153.21,user_003,Los Angeles,19,False
+150.67,user_009,Boston,1,False
+1383.76,user_012,Chicago,7,False
+888.36,user_017,Boston,0,True
+63.75,user_016,Boston,2,False
+147.33,user_008,Miami,11,False
+569.46,user_020,Boston,10,False
+1559.89,user_003,Miami,22,False
+1946.34,user_016,Chicago,5,True
+827.58,user_015,Miami,9,False
+58.87,user_004,San Francisco,8,False
+543.14,user_014,Miami,16,False
+1902.12,user_017,New York,23,False
+193.33,user_019,San Francisco,7,False
+1188.67,user_009,New York,2,True
+1912.58,user_014,San Francisco,15,False
+1096.44,user_005,San Francisco,23,False
+1237.69,user_012,Los Angeles,19,False
+1694.78,user_007,San Francisco,16,True
+1745.65,user_017,Los Angeles,7,False
+1352.68,user_003,Chicago,11,False
+1743.45,user_014,Boston,16,False
+831.24,user_009,New York,19,True
+1429.08,user_020,Houston,14,False
+1970.15,user_012,San Francisco,11,False
+1484.15,user_009,New York,7,False
+379.72,user_015,New York,19,False
+712.45,user_020,San Francisco,13,False
+1972.62,user_014,Boston,20,False
+1982.19,user_002,Los Angeles,17,False
+1853.21,user_016,San Francisco,11,False
+1599.86,user_019,San Francisco,15,False
+468.0,user_004,San Francisco,23,False
+1624.46,user_004,New York,21,False
+1771.45,user_002,Los Angeles,17,False
+1444.55,user_002,Los Angeles,22,False
+181.95,user_001,Miami,7,False
+445.78,user_016,Los Angeles,4,False
+171.61,user_018,Miami,23,False
+827.92,user_020,Seattle,16,False
+1526.95,user_012,San Francisco,17,True
+92.17,user_005,Los Angeles,22,False
+191.11,user_013,Miami,11,False
+1914.11,user_020,San Francisco,13,False
+551.4,user_017,San Francisco,18,False
+1701.97,user_014,Boston,8,False
+163.09,user_008,Seattle,3,False
+1536.45,user_003,New York,17,False
+77.78,user_015,Boston,2,False
+1298.9,user_019,Miami,11,False
+1746.81,user_015,Chicago,4,True
+1442.58,user_015,Boston,13,False
+1553.18,user_011,Chicago,3,True
+786.02,user_008,San Francisco,3,False
+1111.43,user_003,Houston,16,False
+710.73,user_016,New York,5,False
+454.73,user_009,San Francisco,16,False
+1897.25,user_009,San Francisco,22,False
+1132.78,user_009,Miami,10,False
+1818.37,user_011,Miami,12,False
+1533.42,user_011,Houston,3,True
+1609.48,user_014,Boston,9,False
+1125.0,user_014,Los Angeles,13,False
+1634.76,user_012,San Francisco,9,False
+1276.41,user_001,San Francisco,14,False
+714.02,user_010,Houston,2,False
+1519.41,user_013,Seattle,9,False
+281.98,user_015,New York,1,False
+488.85,user_014,Boston,16,False
+128.78,user_005,Los Angeles,15,False
+306.91,user_011,Seattle,8,False
+1742.82,user_005,Houston,14,False
+291.6,user_008,New York,14,False
+1323.88,user_002,Boston,7,False
+339.57,user_005,Seattle,20,False
+76.53,user_004,Seattle,12,False
+1477.19,user_005,Houston,13,False
+1304.1,user_016,Houston,19,False
+1452.42,user_003,Los Angeles,6,False
+293.37,user_003,Seattle,0,False
+765.77,user_013,San Francisco,15,False
+1489.92,user_016,San Francisco,13,False
+1099.44,user_001,Miami,18,False
+54.61,user_005,Seattle,7,False
+1175.05,user_005,Boston,13,False
+1445.56,user_009,Boston,18,False
+1484.23,user_004,Boston,2,True
+1673.84,user_004,Boston,23,False
+1901.27,user_016,Miami,3,True
+1495.53,user_015,Miami,10,False
+398.04,user_015,Seattle,3,False
+95.44,user_005,Los Angeles,4,False
+590.24,user_012,Los Angeles,23,False
+975.24,user_008,San Francisco,9,False
+1925.0,user_004,Boston,9,False
+53.78,user_014,San Francisco,3,False
+1005.28,user_005,Houston,7,False
+1906.43,user_009,San Francisco,23,False
+118.12,user_017,New York,14,False
+143.97,user_019,San Francisco,23,False
+1377.38,user_004,Boston,1,True
+557.05,user_018,Seattle,12,False
+201.81,user_019,Seattle,16,False
+461.82,user_019,New York,3,False
+1307.88,user_011,Chicago,16,False
+727.25,user_001,Seattle,11,False
+321.36,user_007,San Francisco,10,False
+186.0,user_006,New York,12,False
+354.33,user_009,Houston,14,False
+1629.17,user_020,New York,19,False
+292.96,user_017,Chicago,4,False
+574.65,user_007,Seattle,23,False
+1906.96,user_015,Chicago,20,False
+23.32,user_018,New York,17,False
+1575.85,user_010,Houston,16,False
+1065.1,user_012,New York,23,False
+605.67,user_002,Seattle,20,False
+1715.23,user_014,Chicago,5,True
+1401.86,user_020,Houston,1,True
+1135.95,user_004,Chicago,10,False
+79.58,user_010,San Francisco,10,True
+386.05,user_012,San Francisco,13,False
+771.83,user_015,Miami,18,False
+1286.66,user_006,Boston,7,False
+1550.35,user_012,San Francisco,3,True
+866.98,user_012,New York,19,False
+1471.21,user_008,Houston,23,False
+858.26,user_002,Seattle,1,True
+932.46,user_017,Boston,1,True
+1320.57,user_003,Los Angeles,13,False
+1210.9,user_012,San Francisco,15,False
+1822.52,user_004,Houston,8,False
+1693.42,user_001,New York,23,False
+1992.38,user_019,San Francisco,6,False
+514.28,user_008,San Francisco,8,False
+967.17,user_002,Miami,13,False
+538.12,user_008,Chicago,9,False
+445.5,user_012,San Francisco,22,False
+101.09,user_014,Houston,1,False
+211.44,user_010,San Francisco,11,False
+551.38,user_008,Miami,23,False
+1640.94,user_016,New York,0,True
+1397.25,user_002,Seattle,10,True
+176.08,user_002,Houston,8,False
+1193.14,user_017,San Francisco,12,False
+572.35,user_008,Houston,17,False
+1341.11,user_005,Seattle,1,True
+949.56,user_004,New York,23,False
+302.98,user_010,Seattle,5,False
+1219.59,user_007,Houston,0,True
+1256.48,user_016,Los Angeles,11,False
+1555.1,user_016,Boston,23,False
+1802.8,user_002,Miami,18,False
+1641.75,user_007,Miami,4,True
+445.39,user_010,Miami,15,False
+826.59,user_015,New York,12,False
+260.48,user_015,Chicago,22,False
+1553.4,user_007,Miami,1,True
+1197.14,user_013,San Francisco,4,True
+1068.61,user_001,Chicago,6,False
+933.33,user_003,Los Angeles,16,False
+738.28,user_009,Seattle,22,False
+1948.82,user_001,Boston,20,False
+970.87,user_007,Seattle,20,False
+796.15,user_012,San Francisco,1,False
+1722.42,user_002,Miami,14,False
+56.8,user_013,New York,6,False
+191.1,user_013,San Francisco,0,False
+1864.32,user_004,Chicago,2,True
+1567.27,user_010,Miami,1,True
+1270.29,user_012,Seattle,5,True
+1998.95,user_001,Houston,21,False
+1622.3,user_018,Boston,12,False
+960.9,user_012,Boston,18,True
+778.65,user_003,Los Angeles,3,False
+928.06,user_013,Houston,9,False
+1995.25,user_018,Houston,6,False
+376.87,user_012,Miami,21,False
+1040.2,user_009,San Francisco,7,False
+1578.33,user_005,Miami,5,True
+1063.73,user_003,Chicago,16,False
+689.33,user_005,Houston,15,False
+1424.13,user_020,Seattle,5,True
+1492.54,user_003,Seattle,14,True
+1177.88,user_005,Boston,22,False
+402.24,user_013,Los Angeles,4,False
+299.31,user_016,Los Angeles,0,False
+1778.64,user_002,New York,1,True
+886.56,user_012,Miami,4,True
+604.61,user_014,San Francisco,6,True
+1305.57,user_018,Los Angeles,12,False
+773.77,user_011,Houston,1,False
+1913.57,user_006,Miami,23,False
+60.9,user_005,New York,17,False
+1377.89,user_019,Miami,18,False
+859.81,user_009,San Francisco,13,False
+1068.51,user_010,Houston,13,False
+1925.23,user_017,Los Angeles,5,True
+1800.74,user_005,Chicago,11,False
+81.53,user_010,Boston,15,False
+681.35,user_012,New York,2,False
+281.61,user_019,Miami,12,False
+649.59,user_015,New York,0,False
+1967.47,user_012,Los Angeles,16,False
+800.18,user_014,Los Angeles,18,False
+558.5,user_015,San Francisco,23,False
+1300.2,user_017,Houston,23,False
+931.48,user_004,Miami,20,False
+740.86,user_016,Chicago,10,False
+15.73,user_011,Boston,7,False
+115.52,user_004,Boston,22,False
+788.53,user_011,New York,3,False
+1923.19,user_009,New York,14,False
+1967.11,user_014,New York,1,True
+1829.38,user_013,Los Angeles,14,False
+1536.12,user_010,Seattle,20,False
+511.81,user_020,Miami,8,False
+773.45,user_007,Boston,20,False
+1664.39,user_015,Seattle,22,False
+13.3,user_003,Boston,10,False
+513.82,user_014,Miami,21,True
+1089.82,user_011,Los Angeles,14,False
+877.52,user_007,Boston,7,False
+57.34,user_006,Los Angeles,13,False
+874.71,user_010,Seattle,10,False
+1774.56,user_014,Boston,10,False
+215.11,user_015,Houston,2,False
+1139.06,user_009,Miami,4,True
+76.1,user_003,Chicago,3,False
+1772.93,user_005,Houston,10,False
+26.81,user_019,Seattle,16,False
+382.9,user_003,Boston,20,False
+352.22,user_019,Los Angeles,15,False
+305.6,user_017,Boston,15,False
+552.66,user_019,New York,2,False
+302.0,user_009,Los Angeles,3,False
+555.75,user_014,New York,1,False
+260.03,user_003,Miami,8,False
+863.18,user_010,Los Angeles,20,False
+139.67,user_012,Miami,22,False
+1811.83,user_008,San Francisco,16,False
+519.45,user_008,Los Angeles,22,False
+48.05,user_012,Seattle,0,False
+1350.78,user_007,San Francisco,10,False
+183.6,user_017,San Francisco,22,False
+733.83,user_016,Houston,4,False
+1313.5,user_010,Seattle,14,False
+1049.53,user_020,Miami,20,False
+1268.89,user_001,San Francisco,12,False
+1193.91,user_008,San Francisco,18,False
+237.83,user_010,Boston,8,False
+1665.9,user_009,Chicago,0,True
+1883.84,user_004,Boston,5,True
+1230.08,user_002,Chicago,1,True
+686.63,user_001,Boston,5,False
+933.34,user_017,Houston,4,True
+65.0,user_016,Miami,16,False
+1521.84,user_018,Houston,16,False
+899.76,user_007,Chicago,8,False
+1802.25,user_006,Boston,19,False
+1672.04,user_018,Seattle,19,False
+478.5,user_019,Houston,10,False
+1818.89,user_015,Seattle,2,True
+1656.48,user_010,Miami,23,False
+596.38,user_005,New York,19,False
+246.94,user_013,New York,2,False
+1831.84,user_018,Los Angeles,23,True
+1758.24,user_007,Houston,1,True
+471.28,user_001,Houston,13,False
+1032.6,user_015,Miami,17,False
+217.11,user_007,Miami,8,False
+1405.46,user_007,Los Angeles,14,False
+1273.05,user_010,Miami,19,False
+344.45,user_015,Houston,18,False
+634.12,user_019,San Francisco,15,False
+1810.65,user_013,New York,18,False
+457.63,user_013,Miami,1,False
+1421.78,user_005,Seattle,20,False
+1306.63,user_019,Boston,12,False
